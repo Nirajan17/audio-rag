@@ -1,0 +1,4 @@
+.env
+/__psycache__/
+voice.py
+audio-files/
